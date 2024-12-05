@@ -162,3 +162,4 @@ cython_debug/
 #.idea/
 cs910-foundations-of-data-analytics-venv/
 data/raw/us_drought/*.csv
+data/processed/
